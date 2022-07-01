@@ -8,7 +8,7 @@
     <img src="./src/assets/router-logo.svg" alt="react-router" width="60">
 </div> -->
 
-Mobile Plan Finder is easiest way to save on your cellular bill. Based on your wireless needs and budget, you'll be able to determine which family package is right for you. Our app lets you to connect with the owner of the plan. And also our application helps owners of the family plan to fill the vacant spot by posting the request in our application.
+Mobile Plan Finder is easiest way to save on your cellular bill. Based on your wireless needs and budget, you'll be able to determine which family package is right for you. Our app lets you to connect with the owner of the plan. And it also helps owners of the family plan to fill the vacant spot by posting the request in our application.
 
 ## :star2: Features
 
