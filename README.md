@@ -24,7 +24,7 @@ Mobile Plan Finder is easiest way to save on your cellular bill. Based on your w
 ## :arrow_heading_down: Installation
 <!-- - Install the boilerplate using the following command: -->
 
-If you do not want to install the template using a third party package, you can do so by downloading this boilerplate manually from here. Here's how to do so:
+<!--If you do not want to install the template using a third party package, you can do so by downloading this boilerplate manually from here. Here's how to do so:-->
 
 - Clone the repository
 
